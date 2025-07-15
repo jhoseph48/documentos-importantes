@@ -1,0 +1,59 @@
+body {
+ background-color: #000000;
+}
+
+p {
+ color: white;
+}
+
+h1 {
+ color: white;
+}
+
+h2 {
+ background-color: blue;
+ color: white;
+ text-align: center;
+}
+
+.Lateral{
+ display: flex;
+ justify-content: space-between;
+ flex-direction: row; 
+}
+
+.Education {
+ border: 2px solid skyblue;
+ margin: 20px;
+ padding: 15px;
+ box-shadow: -10px -15px 20px cyan;
+ height: 200px;
+ width: 200px;
+ border-radius: 8px;
+}
+
+.Languages {
+ border: 2px solid skyblue;
+ margin: 20px;
+ padding: 15px;
+}
+
+.Skills {
+ border: 2px solid skyblue;
+ margin: 20px;
+ padding: 15px;
+}
+
+.Presentation {
+ border: 2px solid skyblue;
+ margin: 20px;
+ padding: 15px;
+}
+
+.Experience {
+ border: 2px solid skyblue;
+ margin: 20px;
+ padding: 15px;
+}
+
+
