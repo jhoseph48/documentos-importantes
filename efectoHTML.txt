@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<head>
+    <meta charset="UTF-8"> 
+    <title>Mi Página2</title>
+    <link rel="stylesheet" href="style-00.css">
+</head>
+</head>
+<body>
+	<main>
+		<section id="Presentación" class="Presentation">
+            <h2>Presentación</h2>
+        </section>
+		<img src="img/land-rover.jpg" alt="Redondeada" class="rounded">
+		<img src="img/land-rover.jpg" alt="Con marco" class="framed">
+		<img src="img/land-rover.jpg" alt="Sombra suave" class="shadow">
+		<img src="img/land-rover.jpg" alt="Rotada" class="rotated">
+		<img src="img/land-rover.jpg" alt="Giro completo" class="spin">
+		<img src="img/land-rover.jpg" alt="Borde animado" class="border-animated">
+		<img src="img/land-rover.jpg" alt="Brillo al pasar" class="glow">
+		<img src="img/land-rover.jpg" alt="Desvanecimiento" class="fade">
+		<img src="img/land-rover.jpg" alt="En Blanco y Negro" class="grayscale">
+		<img src="img/land-rover.jpg" alt="Con Escala" class="scaled">
+
+		<div class="zoom">
+			<img src="img/land-rover.jpg" alt="Zoom al pasar">
+		</div>
+
+		<div class="gradient-border">
+			<img src="img/land-rover.jpg" alt="Borde degradado">
+		</div>
+
+		<div class="flip">
+			<img src="img/land-rover.jpg" alt="flip">
+		</div>
+	</main>
