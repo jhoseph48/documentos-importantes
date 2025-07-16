@@ -1,5 +1,5 @@
 body {
- background-color: #000000;
+ background-color: #0D0D0D;
 }
 
 p {
@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
- background-color: blue;
+ background-color: #022859;
  color: white;
  text-align: center;
 }
@@ -22,38 +22,39 @@ h2 {
  flex-direction: row; 
 }
 
-.Education {
- border: 2px solid skyblue;
+.Education1 {
  margin: 20px;
  padding: 15px;
- box-shadow: -10px -15px 20px cyan;
- height: 200px;
- width: 200px;
+ box-shadow: -2px -2px 5px yellow;
  border-radius: 8px;
 }
 
-.Languages {
- border: 2px solid skyblue;
+.Languages1 {
  margin: 20px;
  padding: 15px;
+ box-shadow: -2px -2px 5px yellow;
+ border-radius: 8px;
 }
 
-.Skills {
- border: 2px solid skyblue;
+.Skills1 {
  margin: 20px;
  padding: 15px;
+ box-shadow: -2px -2px 5px yellow;
+ border-radius: 8px;
 }
 
-.Presentation {
- border: 2px solid skyblue;
+.Presentation1 {
  margin: 20px;
  padding: 15px;
+ box-shadow: -2px -2px 5px yellow;
+ border-radius: 8px;
 }
 
-.Experience {
- border: 2px solid skyblue;
+.Experience1 {
  margin: 20px;
  padding: 15px;
+ box-shadow: -2px -2px 5px yellow;
+ border-radius: 8px;
 }
 
 
